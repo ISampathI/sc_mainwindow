@@ -1,3 +1,4 @@
+##Project description
 sc_mainwindow is a pyqt5 custom widget that can be used as the main window. This widget provides a custom frame with a title bar. You can move the window using the title bar and can resize the window by using the frame. It does not depend upon os. Also, you can customize anything.
 
 ## Author
